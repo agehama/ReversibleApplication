@@ -1,5 +1,5 @@
 /*
-QÆFSiv3D/Reference-JP - “d‘ì
+å‚ç…§ï¼šSiv3D/Reference-JP - é›»å“
 https://github.com/Siv3D/Reference-JP/wiki/%E9%9B%BB%E5%8D%93
 */
 
